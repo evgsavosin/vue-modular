@@ -1,0 +1,16 @@
+/**
+* GothamPro.scss
+*
+* Font name is 'Gotham Pro'
+*/
+
+@import '../helpers.scss';
+
+$font-family: 'Gotham Pro';
+$file-path: '../../fonts/GothamPro/GothamPro';
+
+@include font-face($font-family, $file-path + '-Black', 900);
+@include font-face($font-family, $file-path + '-Bold', 'bold');
+@include font-face($font-family, $file-path + '-Medium', 500);
+@include font-face($font-family, $file-path);
+@include font-face($font-family, $file-path + '-Light', 300);
