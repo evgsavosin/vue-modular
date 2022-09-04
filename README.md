@@ -1,5 +1,5 @@
 # Vue Modular
-[![Vue.js](https://img.shields.io/badge/Vue.js-2.7.8-blue.svg?logo=vue.js)](https://img.shields.io/badge/Vue.js-2.7.8-blue.svg?logo=vue.js) 
+[![Vue.js](https://img.shields.io/badge/Vue.js-2.7.8-blue.svg?logo=vue.js)](https://img.shields.io/badge/Vue.js-2.7.8-blue.svg?logo=vue.js) [![License](https://img.shields.io/badge/license-MIT-green.svg?logo=github)](https://img.shields.io/badge/license-MIT-green.svg?logo=github)
 
 An example of a modular application based on the **Vue.js** framework.
 
